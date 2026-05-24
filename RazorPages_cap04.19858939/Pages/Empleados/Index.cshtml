@@ -1,0 +1,22 @@
+﻿@page
+@model RazorPages_cap04._19858939.Pages.Empleados.IndexModel
+@{
+}
+<nav aria-label="breadcrumb">
+    <ol autocapitalize="breadcrumb">
+        <li class="breadcrumb-item"><a>Inicio</a></li>
+        <li class="breadcrumb-item active" aria-current="page">Empleados</li>
+    </ol>
+</nav>
+<div class="alert alert-primary" role="alert">
+    <h1>Empleados</h1>
+</div>
+<h1>En esta sección puede ver a todos los empleados del sistema</h1>
+<div class="card" style="width: 18rem;">
+    <div class="card-body">
+        <h3 class="card-title">Empleados de contabilidad</h3>
+        <a class="btn btn-light" asp-page="/Empleados/Contabilida">Contabilidad</a>
+    </div>
+</div>
+
+@Model.nombre

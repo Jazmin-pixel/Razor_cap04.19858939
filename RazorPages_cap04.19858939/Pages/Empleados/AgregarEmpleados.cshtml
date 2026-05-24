@@ -1,0 +1,24 @@
+﻿@page
+@model RazorPages_cap04._19858939.Pages.Empleados.AgregarEmpleadosModel
+@{
+}
+
+<h1>Ingresar nuevos empleados</h1>
+
+<form class="form-group" method="post">
+    <input clas="form-control" type="text"
+        asp-for="Empleado.Nombre" placeholder="Nombre">
+          <input class="form-control" type="number"
+        placeholder="Edad">
+            <input class="form-control" type="email"
+        placeholder="Email">
+            <input class="form-control" type="text"
+        placeholder="Direccion">
+            <input class="form-control" type="text"
+        placeholder="Telefono">
+            <input class="form-control" type="text"
+        placeholder="Departamento">
+
+    <button type="submit">Cargar Empleado</button>
+
+    </form>

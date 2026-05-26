@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using RazorPages_cap04._19858939.Models;
+using RazorPages_cap04_19858939.Models;
 
 namespace RazorPages_cap04._19858939.Pages.Empleados
 {

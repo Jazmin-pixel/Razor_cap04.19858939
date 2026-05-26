@@ -12,61 +12,121 @@ build_property.EntryPointFilePath =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = RazorPages_cap04._19858939
 build_property.RootNamespace = RazorPages_cap04._19858939
-build_property.ProjectDir = C:\Users\aliss\Desktop\Docentes\Prof.Arci\Practica_05\RazorPages_cap04.19858939\RazorPages_cap04.19858939\
+build_property.ProjectDir = C:\Users\aliss\Desktop\Docentes\Prof.Arci\Practica_05\RazorPages_cap05_19858939\RazorPages_cap04.19858939\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 10.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\aliss\Desktop\Docentes\Prof.Arci\Practica_05\RazorPages_cap04.19858939\RazorPages_cap04.19858939
+build_property.MSBuildProjectDirectory = C:\Users\aliss\Desktop\Docentes\Prof.Arci\Practica_05\RazorPages_cap05_19858939\RazorPages_cap04.19858939
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap04.19858939/RazorPages_cap04.19858939/Pages/Clientes/Index.cshtml]
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/ClientePages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVBhZ2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/ClientePages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVBhZ2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/ClientePages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVBhZ2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/ClientePages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVBhZ2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/ClientePages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZVBhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/Clientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap04.19858939/RazorPages_cap04.19858939/Pages/Empleados/AgregarEmpleados.cshtml]
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/EmpleadoPages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbGVhZG9QYWdlc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/EmpleadoPages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbGVhZG9QYWdlc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/EmpleadoPages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbGVhZG9QYWdlc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/EmpleadoPages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbGVhZG9QYWdlc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/EmpleadoPages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbGVhZG9QYWdlc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/Empleados/AgregarEmpleados.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbGVhZG9zXEFncmVnYXJFbXBsZWFkb3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap04.19858939/RazorPages_cap04.19858939/Pages/Empleados/Contabilidad.cshtml]
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/Empleados/Contabilidad.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbGVhZG9zXENvbnRhYmlsaWRhZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap04.19858939/RazorPages_cap04.19858939/Pages/Empleados/Index.cshtml]
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/Empleados/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbGVhZG9zXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap04.19858939/RazorPages_cap04.19858939/Pages/Error.cshtml]
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap04.19858939/RazorPages_cap04.19858939/Pages/Index.cshtml]
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap04.19858939/RazorPages_cap04.19858939/Pages/Oficinas.cshtml]
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/OficinaPages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT2ZpY2luYVBhZ2VzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/OficinaPages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT2ZpY2luYVBhZ2VzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/OficinaPages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT2ZpY2luYVBhZ2VzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/OficinaPages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT2ZpY2luYVBhZ2VzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/OficinaPages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT2ZpY2luYVBhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/Oficinas.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT2ZpY2luYXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap04.19858939/RazorPages_cap04.19858939/Pages/Privacy.cshtml]
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap04.19858939/RazorPages_cap04.19858939/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap04.19858939/RazorPages_cap04.19858939/Pages/_ViewImports.cshtml]
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap04.19858939/RazorPages_cap04.19858939/Pages/_ViewStart.cshtml]
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap04.19858939/RazorPages_cap04.19858939/Pages/Shared/_Layout.cshtml]
+[C:/Users/aliss/Desktop/Docentes/Prof.Arci/Practica_05/RazorPages_cap05_19858939/RazorPages_cap04.19858939/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2kugz5aa1l

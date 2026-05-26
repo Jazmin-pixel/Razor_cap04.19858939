@@ -1,4 +1,5 @@
 using Microsoft.EntityFrameworkCore;
+using RazorPages_cap04_19858939.Data;
 var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("RazorPages_cap04_19858939Context") ?? throw new InvalidOperationException("Connection string 'RazorPages_cap04_19858939Context' not found.");
 

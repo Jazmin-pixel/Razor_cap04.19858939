@@ -1,58 +1,198 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\",
+  "WorkspaceRootPath": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap04.19858939\\razorpages_cap04.19858939\\pages\\empleados\\contabilidad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\empleados\\contabilidad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap04.19858939\\razorpages_cap04.19858939\\pages\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap04.19858939\\razorpages_cap04.19858939\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\oficinapages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\oficinapages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap04.19858939\\razorpages_cap04.19858939\\pages\\empleados\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\empleados\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\oficinapages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\oficinapages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap04.19858939\\razorpages_cap04.19858939\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\oficinapages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\oficinapages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap04.19858939\\razorpages_cap04.19858939\\pages\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\oficinapages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\oficinapages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap04.19858939\\razorpages_cap04.19858939\\pages\\clientes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\clientes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\oficinapages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\oficinapages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap04.19858939\\razorpages_cap04.19858939\\pages\\oficinas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\oficinas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\oficinapages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\oficinapages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap04.19858939\\razorpages_cap04.19858939\\pages\\oficinas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\oficinas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\oficinapages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\oficinapages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap04.19858939\\razorpages_cap04.19858939\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\oficinapages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\oficinapages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap04.19858939\\razorpages_cap04.19858939\\pages\\empleados\\agregarempleados.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\empleados\\agregarempleados.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\oficinapages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\oficinapages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap04.19858939\\razorpages_cap04.19858939\\pages\\empleados\\agregarempleados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\empleados\\agregarempleados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\oficinapages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\oficinapages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap04.19858939\\razorpages_cap04.19858939\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F732D8F0-F24B-4248-8DD2-E14A26C13B66}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\clientes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\clientes\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\razorpages_cap04_19858939context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\razorpages_cap04_19858939context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\empleadopages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\empleadopages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\clientepages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\clientepages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\clientepages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\clientepages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\clientepages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\clientepages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\clientepages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\clientepages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\clientepages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\clientepages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\clientepages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\clientepages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\clientepages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\clientepages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\clientepages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\clientepages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\empleadopages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\empleadopages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\oficinas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\oficinas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\razorpages_cap04.19858939.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\razorpages_cap04.19858939.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\clientepages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\clientepages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\clientepages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\clientepages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\models\\oficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\models\\oficina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\empleadopages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\empleadopages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\empleadopages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\empleadopages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\empleadopages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\empleadopages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\empleados\\contabilidad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\empleados\\contabilidad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\empleadopages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\empleadopages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\empleadopages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\empleadopages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\empleados\\agregarempleados.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\empleados\\agregarempleados.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\empleadopages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\empleadopages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\empleadopages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\empleadopages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\empleadopages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\empleadopages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\empleados\\agregarempleados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\empleados\\agregarempleados.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\models\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\empleados\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\empleados\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\empleados\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|c:\\users\\aliss\\desktop\\docentes\\prof.arci\\practica_05\\razorpages_cap05_19858939\\razorpages_cap04.19858939\\pages\\oficinas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50E98459-5378-67AA-E32D-6BA19752D909}|RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj|solutionrelative:razorpages_cap04.19858939\\pages\\oficinas.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,115 +206,310 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Pages\\Clientes\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\Clientes\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Pages\\Clientes\\Index.cshtml.cs",
-              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\Clientes\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T23:00:06.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Pages\\Clientes\\Index.cshtml",
-              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\Clientes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Pages\\Clientes\\Index.cshtml",
-              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\Clientes\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-24T22:57:38.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T22:11:36.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Pages\\Empleados\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\Empleados\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Pages\\Empleados\\Index.cshtml.cs",
-              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\Empleados\\Index.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\OficinaPages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\OficinaPages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\OficinaPages\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\OficinaPages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T21:55:02.411Z",
+              "WhenOpened": "2026-05-26T04:51:45.741Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Pages\\Index.cshtml",
-              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Pages\\Index.cshtml",
-              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\OficinaPages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\OficinaPages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\OficinaPages\\Index.cshtml",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\OficinaPages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-24T22:09:10.422Z",
+              "WhenOpened": "2026-05-26T04:51:35.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\OficinaPages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\OficinaPages\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\OficinaPages\\Edit.cshtml.cs",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\OficinaPages\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T04:51:30.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\OficinaPages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\OficinaPages\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\OficinaPages\\Edit.cshtml",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\OficinaPages\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T04:51:20.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\OficinaPages\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\OficinaPages\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\OficinaPages\\Details.cshtml.cs",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\OficinaPages\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T04:51:13.502Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Pages\\Empleados\\Index.cshtml",
-              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\Empleados\\Index.cshtml",
-              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Pages\\Empleados\\Index.cshtml",
-              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\Empleados\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\Clientes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-24T21:54:36.736Z",
+              "WhenOpened": "2026-05-24T22:57:38.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Contabilidad.cshtml",
-              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Pages\\Empleados\\Contabilidad.cshtml",
-              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\Empleados\\Contabilidad.cshtml",
-              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Pages\\Empleados\\Contabilidad.cshtml",
-              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\Empleados\\Contabilidad.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowEoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-24T22:08:03.058Z",
+              "WhenOpened": "2026-05-24T21:33:29.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Oficinas.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Pages\\Oficinas.cshtml.cs",
-              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\Oficinas.cshtml.cs",
-              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Pages\\Oficinas.cshtml.cs",
-              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\Oficinas.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T22:04:14.797Z",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\OficinaPages\\Details.cshtml",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\OficinaPages\\Details.cshtml",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\OficinaPages\\Details.cshtml",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\OficinaPages\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T04:51:04.491Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\OficinaPages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\OficinaPages\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\OficinaPages\\Delete.cshtml.cs",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\OficinaPages\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T04:50:59.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\OficinaPages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\OficinaPages\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\OficinaPages\\Delete.cshtml",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\OficinaPages\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T04:50:52.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\OficinaPages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\OficinaPages\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\OficinaPages\\Create.cshtml.cs",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\OficinaPages\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T04:50:44.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\OficinaPages\\Create.cshtml",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\OficinaPages\\Create.cshtml",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\OficinaPages\\Create.cshtml",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\OficinaPages\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T04:50:36.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\ClientePages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\ClientePages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\ClientePages\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\ClientePages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T04:43:58.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\ClientePages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\ClientePages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\ClientePages\\Index.cshtml",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\ClientePages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T04:39:42.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\ClientePages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\ClientePages\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\ClientePages\\Delete.cshtml",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\ClientePages\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T04:39:19.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Delete.cshtml",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T03:21:58.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RazorPages_cap04_19858939Context.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\RazorPages_cap04_19858939Context.cs",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\RazorPages_cap04_19858939Context.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\RazorPages_cap04_19858939Context.cs",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\RazorPages_cap04_19858939Context.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-25T18:03:42.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\Clientes\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\Clientes\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\Clientes\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\Clientes\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T23:00:06.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\ClientePages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\ClientePages\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\ClientePages\\Edit.cshtml.cs",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\ClientePages\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T04:43:49.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\ClientePages\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\ClientePages\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\ClientePages\\Details.cshtml.cs",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\ClientePages\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T04:43:40.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\ClientePages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\ClientePages\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\ClientePages\\Delete.cshtml.cs",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\ClientePages\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T04:43:31.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\ClientePages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\ClientePages\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\ClientePages\\Create.cshtml.cs",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\ClientePages\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T04:43:07.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Program.cs",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Program.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Program.cs",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T02:33:46.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "Oficinas.cshtml",
-              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Pages\\Oficinas.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\Oficinas.cshtml",
               "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\Oficinas.cshtml",
-              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Pages\\Oficinas.cshtml",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\Oficinas.cshtml",
               "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\Oficinas.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -183,55 +518,298 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAATAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Create.cshtml",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Create.cshtml",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Create.cshtml",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-24T21:33:29.094Z",
+              "WhenOpened": "2026-05-26T03:17:50.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 22,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\ClientePages\\Create.cshtml",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\ClientePages\\Create.cshtml",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\ClientePages\\Create.cshtml",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\ClientePages\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T04:38:17.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "RazorPages_cap04.19858939.csproj",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-25T18:19:00.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\ClientePages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\ClientePages\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\ClientePages\\Edit.cshtml",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\ClientePages\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T04:39:37.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\ClientePages\\Details.cshtml",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\ClientePages\\Details.cshtml",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\ClientePages\\Details.cshtml",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\ClientePages\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T04:39:29.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Models\\Cliente.cs",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T04:32:46.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Oficina.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Models\\Oficina.cs",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Models\\Oficina.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Models\\Oficina.cs",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Models\\Oficina.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T04:30:22.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T03:21:25.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Edit.cshtml.cs",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T03:21:14.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Create.cshtml.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Create.cshtml.cs",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Create.cshtml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T03:20:03.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Index.cshtml",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T03:22:32.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Edit.cshtml",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T03:22:19.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Contabilidad.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\Empleados\\Contabilidad.cshtml",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\Empleados\\Contabilidad.cshtml",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\Empleados\\Contabilidad.cshtml",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\Empleados\\Contabilidad.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T22:08:03.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Details.cshtml",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Details.cshtml",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Details.cshtml",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-26T03:22:10.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Details.cshtml.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Details.cshtml.cs",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T03:21:05.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Delete.cshtml.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Delete.cshtml.cs",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\EmpleadoPages\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T03:20:51.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
               "Title": "AgregarEmpleados.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Pages\\Empleados\\AgregarEmpleados.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\Empleados\\AgregarEmpleados.cshtml.cs",
               "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\Empleados\\AgregarEmpleados.cshtml.cs",
-              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Pages\\Empleados\\AgregarEmpleados.cshtml.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\Empleados\\AgregarEmpleados.cshtml.cs",
               "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\Empleados\\AgregarEmpleados.cshtml.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAADwvxcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T21:05:18.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-24T21:05:18.745Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AgregarEmpleados.cshtml",
-              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Pages\\Empleados\\AgregarEmpleados.cshtml",
-              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\Empleados\\AgregarEmpleados.cshtml",
-              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Pages\\Empleados\\AgregarEmpleados.cshtml",
-              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\Empleados\\AgregarEmpleados.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-24T20:39:25.632Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 42,
               "Title": "Empleado.cs",
-              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Models\\Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Models\\Empleado.cs",
               "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Models\\Empleado.cs",
-              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\Models\\Empleado.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Models\\Empleado.cs",
               "RelativeToolTip": "RazorPages_cap04.19858939\\Models\\Empleado.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-24T20:23:33.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-24T20:23:33.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AgregarEmpleados.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\Empleados\\AgregarEmpleados.cshtml",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\Empleados\\AgregarEmpleados.cshtml",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\Empleados\\AgregarEmpleados.cshtml",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\Empleados\\AgregarEmpleados.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T20:39:25.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\Empleados\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\Empleados\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\Empleados\\Index.cshtml",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\Empleados\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T21:54:36.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\Index.cshtml",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-24T22:09:10.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\Empleados\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\Empleados\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\Empleados\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\Empleados\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T21:55:02.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T22:11:36.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Oficinas.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\Oficinas.cshtml.cs",
+              "RelativeDocumentMoniker": "RazorPages_cap04.19858939\\Pages\\Oficinas.cshtml.cs",
+              "ToolTip": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\Pages\\Oficinas.cshtml.cs",
+              "RelativeToolTip": "RazorPages_cap04.19858939\\Pages\\Oficinas.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T22:04:14.797Z"
             }
           ]
         }

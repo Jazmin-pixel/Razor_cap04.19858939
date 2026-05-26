@@ -2228,11 +2228,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj",
+      "projectUniqueName": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj",
       "projectName": "RazorPages_cap04.19858939",
-      "projectPath": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj",
+      "projectPath": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939.csproj",
       "packagesPath": "C:\\Users\\aliss\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap04.19858939\\RazorPages_cap04.19858939\\obj\\",
+      "outputPath": "C:\\Users\\aliss\\Desktop\\Docentes\\Prof.Arci\\Practica_05\\RazorPages_cap05_19858939\\RazorPages_cap04.19858939\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2262,7 +2262,7 @@
         ]
       },
       "restoreAuditProperties": {
-        "enableAudit": "true",
+        "enableAudit": "false",
         "auditLevel": "low",
         "auditMode": "all"
       },

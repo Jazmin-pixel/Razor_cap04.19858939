@@ -1,4 +1,4 @@
-﻿namespace RazorPages_cap04._19858939.Models
+﻿namespace RazorPages_cap04_19858939.Models
 {
     public class Empleado
     {

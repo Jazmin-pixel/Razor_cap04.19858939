@@ -1,0 +1,44 @@
+@page
+@model RazorPages_cap04_19858939.Pages.OficinaPages.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Oficina</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Oficina.ubicacion" class="control-label"></label>
+                <input asp-for="Oficina.ubicacion" class="form-control" />
+                <span asp-validation-for="Oficina.ubicacion" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Oficina.cantidadMaximaEmpleados" class="control-label"></label>
+                <input asp-for="Oficina.cantidadMaximaEmpleados" class="form-control" />
+                <span asp-validation-for="Oficina.cantidadMaximaEmpleados" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Oficina.atencionClientes" class="control-label"></label>
+                <input asp-for="Oficina.atencionClientes" class="form-check-input" />
+                <span asp-validation-for="Oficina.atencionClientes" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
